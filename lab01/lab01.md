@@ -143,5 +143,6 @@
 #### Вопросы
 1. Каков ответ сервера (код состояния и фраза) в ответ на начальное HTTP-сообщение GET от вашего браузера?
    - 401 Unauthorized
-2. Когда ваш браузер отправляет сообщение HTTP GET во второй раз, какое новое поле включается в сообщение HTTP GET?
-   - Credentials: wireshark-students:network
+2. Когда ваш браузер отправляет сообщение HTTP GET во второй раз, какое новое поле включается в сообщение HTTP GET? 
+   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d1df0c93-2328-415d-9ef2-d7e3e9ddb576" />
+   - Authorization: Basic d2lyZXNoYXJrLXN0dWRlbnRzOm5ldHdvcms=\r\n
